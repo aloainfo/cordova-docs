@@ -22,7 +22,7 @@ title: Intégrer des WebViews
 
 # Intégrer des WebViews
 
-Cordova demandes sont habituellement mises en œuvre comme un *WebView* , basée sur un navigateur, au sein de la plate-forme mobile native. Cette section montre comment, pour les plateformes, pour créer votre propre WebView, qui rendent pleinement utilise des APIs de Cordova. Vous pouvez ensuite déployer ces composants d'application Cordova ainsi que les composants natifs dans une application hybride.
+Les applications Cordova sont habituellement mises en œuvre comme un *WebView* , basée sur un navigateur, au sein de la plate-forme mobile native. Cette section montre comment, pour les plateformes, pour créer votre propre WebView, qui rendent pleinement utilise des APIs de Cordova. Vous pouvez ensuite déployer ces composants d'application Cordova ainsi que les composants natifs dans une application hybride.
 
 Pour déployer une WebView, vous devez être familier avec chaque environnement de programmation native. Ce qui suit fournit des instructions sur les plates-formes prises en charge :
 
